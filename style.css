@@ -1,0 +1,36 @@
+.banner {
+  background: url("https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148881321.jpg?w=740&t=st=1699416186~exp=1699416786~hmac=8eaa182d26f89fdd9b03d40256d486c034e37f16fe6d719967e3269f99a672d2")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 0%;
+  color: #fff;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
